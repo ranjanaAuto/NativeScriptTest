@@ -1,0 +1,8 @@
+{
+	"Capabilities_Default":{ 
+		"appium:platformName" : "iOS",
+		"appium:noReset" : "false",
+		"newCommandTimeout": "10000",
+		"appium:autoAcceptAlerts" : "true"
+   }
+  }

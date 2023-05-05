@@ -1,0 +1,18 @@
+{	
+	"ios_capabilities":{ 
+		"deviceName" : "",
+		"platformVersion" : "",
+		"app" : ""
+	},
+	
+	"android_capabilities":{
+	  "platformVersion": "12",
+	  "deviceName": "emulator-5554",
+	  "app": "/Users/xxxx/Documents/Automation/demoApp/Android/NativeScript.apk"
+  	},
+	"appium_server":{ 
+		"HubIP" : "127.0.0.1",
+		"Port" : "4724"
+	}
+	
+}
