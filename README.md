@@ -12,3 +12,6 @@ Prerequesit:
 TestData:
   - Navigate to folder src/test/resources/testdata
   - Open file scenario1.json
+
+Reports:
+For report navigate to folder target/surefire-reports/emailable-report.html
