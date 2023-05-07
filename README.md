@@ -13,5 +13,6 @@ TestData:
   - Navigate to folder src/test/resources/testdata
   - Open file scenario1.json
 
-Reports:
-For report navigate to folder target/surefire-reports/emailable-report.html
+Executution Reports:
+  - Deatiled report:  target/surefire-reports/emailable-report.html
+  - Summary report: target/surefire-reports/index.html
