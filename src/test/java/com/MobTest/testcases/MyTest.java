@@ -11,7 +11,7 @@ import com.MobTest.setup.CommonFunctions;
 
 public class MyTest extends BaseTest{
 
-	@Test(groups = {"ios_regression","ios_smoke"})
+	@Test(groups = {"android_regression","android_smoke"})
 	public void Assignment() {
 		TestReporter.description(" Assignment Task: Online Table Reservation  ");
 		TestData.setValue("scenario1", "User_Tinted");

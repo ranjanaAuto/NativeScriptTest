@@ -1,0 +1,7 @@
+{
+	"Capabilities_Default":{ 
+		"platformName": "Android",
+		 "appium:noReset": "false",
+		 "appium:fullReset" : "true"
+   }
+ }

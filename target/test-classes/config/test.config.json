@@ -1,0 +1,9 @@
+{
+	"Default":{
+		"MAX_WAIT_TIME": "20",
+		"SCREENSHOT_LEVEL": "ALL",
+		"EXECUTION_ON": "local",
+		"PLATFORM": "android",	
+		"BUILD_TYPE": "regression"
+	}
+}

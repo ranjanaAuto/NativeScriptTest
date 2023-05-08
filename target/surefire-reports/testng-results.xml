@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<mark><b> Assignment Task: Online Table Reservation  </b></mark> </br>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Click On Get Started</i>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i> Found Layouts</i>]]>
+    </line>
+    <line>
+      <![CDATA[<strong>Put application in the Background </strong>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Activate App</i>]]>
+    </line>
+    <line>
+      <![CDATA[<strong>Navigate To Reservations</strong>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Click On + (New reservation) icon</i>]]>
+    </line>
+    <line>
+      <![CDATA[<strong>New Reservation</strong>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Name: Test091835</i>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Phone: 0805091836</i>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Date: Mon 08.05</i>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Time: 09:18 am</i>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Guest: 2 guests</i>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>3rd floor</i>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Table: 4</i>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Origin: online</i>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Clik on Done</i>]]>
+    </line>
+    <line>
+      <![CDATA[<strong>Select old request and close</strong>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Edit resevation</i>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Click on Back Button</i>]]>
+    </line>
+    <line>
+      <![CDATA[<strong>Click on Menu</strong>]]>
+    </line>
+    <line>
+      <![CDATA[<strong>Click on Code Sample</strong>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>github.com/NativeScript/nativescript-sdk-examples-js</i>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Close broswer</i>]]>
+    </line>
+    <line>
+      <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Activate App</i>]]>
+    </line>
+    <line>
+      <![CDATA[</br><a href='./screenshots/Assignment.png'> <img src='./screenshots/Assignment.png' height='300' width='180' /> </a></br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-05-08T09:17:59 CEST" name="Suite" finished-at="2023-05-08T09:19:05 CEST" duration-ms="65889">
+    <groups>
+      <group name="ios_smoke">
+        <method signature="MyTest.Assignment()[pri:0, instance:com.MobTest.testcases.MyTest@48fa0f47]" name="Assignment" class="com.MobTest.testcases.MyTest"/>
+      </group> <!-- ios_smoke -->
+      <group name="ios_regression">
+        <method signature="MyTest.Assignment()[pri:0, instance:com.MobTest.testcases.MyTest@48fa0f47]" name="Assignment" class="com.MobTest.testcases.MyTest"/>
+      </group> <!-- ios_regression -->
+    </groups>
+    <test started-at="2023-05-08T09:17:59 CEST" name="Test" finished-at="2023-05-08T09:19:05 CEST" duration-ms="65889">
+      <class name="com.MobTest.testcases.MyTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.MobTest.testcases.MyTest@48fa0f47]" started-at="2023-05-08T09:17:59 CEST" name="beforeSuite" finished-at="2023-05-08T09:17:59 CEST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="setupDevice(java.lang.reflect.Method)[pri:0, instance:com.MobTest.testcases.MyTest@48fa0f47]" started-at="2023-05-08T09:17:59 CEST" name="setupDevice" finished-at="2023-05-08T09:18:06 CEST" duration-ms="6688" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.MobTest.testcases.MyTest.Assignment()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDevice -->
+        <test-method signature="Assignment()[pri:0, instance:com.MobTest.testcases.MyTest@48fa0f47]" started-at="2023-05-08T09:18:06 CEST" name="Assignment" finished-at="2023-05-08T09:19:02 CEST" duration-ms="55941" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<mark><b> Assignment Task: Online Table Reservation  </b></mark> </br>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Click On Get Started</i>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i> Found Layouts</i>]]>
+            </line>
+            <line>
+              <![CDATA[<strong>Put application in the Background </strong>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Activate App</i>]]>
+            </line>
+            <line>
+              <![CDATA[<strong>Navigate To Reservations</strong>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Click On + (New reservation) icon</i>]]>
+            </line>
+            <line>
+              <![CDATA[<strong>New Reservation</strong>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Name: Test091835</i>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Phone: 0805091836</i>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Date: Mon 08.05</i>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Time: 09:18 am</i>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Guest: 2 guests</i>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>3rd floor</i>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Table: 4</i>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Origin: online</i>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Clik on Done</i>]]>
+            </line>
+            <line>
+              <![CDATA[<strong>Select old request and close</strong>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Edit resevation</i>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Click on Back Button</i>]]>
+            </line>
+            <line>
+              <![CDATA[<strong>Click on Menu</strong>]]>
+            </line>
+            <line>
+              <![CDATA[<strong>Click on Code Sample</strong>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>github.com/NativeScript/nativescript-sdk-examples-js</i>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Close broswer</i>]]>
+            </line>
+            <line>
+              <![CDATA[&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &#9830; <i>Activate App</i>]]>
+            </line>
+            <line>
+              <![CDATA[</br><a href='./screenshots/Assignment.png'> <img src='./screenshots/Assignment.png' height='300' width='180' /> </a></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Assignment -->
+        <test-method is-config="true" signature="releaseDevice(org.testng.ITestResult)[pri:0, instance:com.MobTest.testcases.MyTest@48fa0f47]" started-at="2023-05-08T09:19:02 CEST" name="releaseDevice" finished-at="2023-05-08T09:19:05 CEST" duration-ms="2767" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Assignment status=SUCCESS method=MyTest.Assignment()[pri:0, instance:com.MobTest.testcases.MyTest@48fa0f47] output=<mark><b> Assignment Task: Online Table Reservation  </b></mark> </br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- releaseDevice -->
+        <test-method is-config="true" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.MobTest.testcases.MyTest@48fa0f47]" started-at="2023-05-08T09:19:05 CEST" name="afterSuite" finished-at="2023-05-08T09:19:05 CEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@58dea0a5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.MobTest.testcases.MyTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
